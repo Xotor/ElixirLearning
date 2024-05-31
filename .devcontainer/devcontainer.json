@@ -1,0 +1,8 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/universal",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/elixir-asdf:2": {}
+	}
+}
